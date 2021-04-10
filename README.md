@@ -8,7 +8,7 @@ Requires [Alteri front end](https://github.com/jeffreyc86/alteri-frontend) and [
 
 ## Features
 
-The word *alteri* itself comes from the root of the word **altruism**, which was the basis for the app. Users are both able to create requests for basic necessity items and fulfill requests. Once a recipient is connected with a user, a live chat is set up to figure out the exchange logistics. Compassion is included.
+The word *alteri* itself comes from the root of the word **altruism**, which was the basis for the app. Users are both able to create requests for basic necessity items and fulfill requests. Once a recipient is connected with a user, a live chat is set up to figure out the exchange logistics. Compassion included.
 
 ### Signing Up / Logging In
 
@@ -40,7 +40,7 @@ Once a request is accepted, the status for the request will now show as accepted
 
 <img src="./assets/accepted-request.gif" alt="accepted request" width="800"/>
 
-Within the chat, they'll be able to see the items on the request, as well as a map showing the distance between the two users. The map uses GoogleMap's API.
+Within the chat, they'll be able to see the items on the request, as well as a map showing the distance between the two users. The map uses GoogleMap's API and pinpoints both users' geolocations.
 
 <img src="./assets/chat-features.gif" alt="chat features" width="800"/>
 
@@ -48,7 +48,7 @@ The recipient and donor are able to chat in real-time due to the WebSockets inte
 
 <img src="./assets/chat.gif" alt="chat" width="800"/>
 
-Once the exchange has been made, either user can mark the request as fulfilled. Doing so will be reflected for both the recipient and donor. The status of request on their profile page will now have a status of fulfilled.
+Once the exchange has been made, either user can mark the request as fulfilled. Doing so will be reflected for both the recipient and donor. The status of the request on their profile page will be updated to fulfilled.
 
 <img src="./assets/fulfilled-request.gif" alt="fulfilled request" width="800"/>
 
