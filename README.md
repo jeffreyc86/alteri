@@ -54,7 +54,7 @@ Once the exchange has been made, either user can mark the request as fulfilled. 
 
 ### Logging Out
 
-When a user is complete with their session, they're able to log out. Once logged out, they're brough back to the home page.
+When a user is complete with their session, they're able to log out. Once logged out, they're brought back to the home page.
 
 <img src="./assets/logout.gif" alt="log out" width="800"/>
 
