@@ -12,7 +12,7 @@ Watch the [Demo](https://www.loom.com/share/471914886e254936afc0976c14b0b3c2)
 
 ## Technologies Used
 
-`Alteri` is built with a `React` front end, a `Ruby on Rails` & `PostgreSQL` back end, `Redux` for universal state management, and `ActionCable` to integrate WebSockets. All styling was done with custom CSS. The live link for `Alteri` is deployed on [Netlify](https://www.netlify.com/) with [Heroku](https://www.heroku.com/) for the back end.
+`Alteri` is built with a `React` front end, a `Ruby on Rails` and `PostgreSQL` back end, `Redux` for universal state management, and `ActionCable` to integrate WebSockets. All styling was done with custom CSS. The live link for `Alteri` is deployed on [Netlify](https://www.netlify.com/) with [Heroku](https://www.heroku.com/) for the back end.
 
 ## Features
 
