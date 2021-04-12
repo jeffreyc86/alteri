@@ -1,14 +1,22 @@
 <img src="./assets/alteri_logo.jpg" alt="Alteri Logo" width="1200"/>
 
-[Alteri](https://github.com/jeffreyc86/alteri-demo/) is an app connecting users in need of basic necessities to donors in their area. Built with a React front end, a Ruby on Rails back end, Redux for universal state management, ActionCable to integrate WebSockets, and all custom CSS.
-
-[Live Link](https://alteri-client.netlify.app/) / [Demo](https://www.loom.com/share/471914886e254936afc0976c14b0b3c2)
+`Alteri` is a platform connecting users in need of basic necessities with donors in their area. Ultimately spreading compassion by helping the less fortunate.
 
 Requires [Alteri front end](https://github.com/jeffreyc86/alteri-frontend) and [Alteri back end](https://github.com/jeffreyc86/alteri-backend).
 
+## Live Link & Demo
+
+Visit the [Live Link](https://alteri-client.netlify.app/) 
+
+Watch the [Demo](https://www.loom.com/share/471914886e254936afc0976c14b0b3c2)
+
+## Technologies Used
+
+`Alteri` is built with a `React` front end, a `Ruby on Rails` & `PostgreSQL` back end, `Redux` for universal state management, and `ActionCable` to integrate WebSockets. All styling was done with custom CSS.
+
 ## Features
 
-The word *alteri* itself comes from the root of the word **altruism**, which was the basis for the app. Users are both able to create requests for basic necessity items and fulfill requests. Once a recipient is connected with a user, a live chat is set up to figure out the exchange logistics. Compassion included.
+The word ***alteri*** itself comes from the root of the word **altruism**, which was the basis for the app. Users are both able to create requests for basic necessity items and fulfill requests. Once a recipient is connected with a user, a live chat is set up to figure out the exchange logistics. Compassion included.
 
 ### Signing Up / Logging In
 
