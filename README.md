@@ -16,13 +16,13 @@ Watch the [Demo](https://www.loom.com/share/471914886e254936afc0976c14b0b3c2)
 
 ## Features
 
-The word ***alteri*** itself comes from the root of the word **altruism**, which was the basis for the app. Users are both able to create requests for basic necessity items and fulfill requests. Once a recipient is connected with a user, a live chat is set up to figure out the exchange logistics. Compassion included.
+The word ***alteri*** itself comes from the root of the word **altruism**, which was the basis for the app. Users are both able to create requests for basic necessity items and fulfill requests. Once a recipient is connected with a donor, a live chat is set up to figure out the exchange logistics. Compassion included.
 
 ### Signing Up / Logging In
 
 Users are able to sign up or login. There are validations when creating an account. Users may also register using their Google account. Upon a successful account creatation/login attempt, a `JWT Token` is issued to store the user's session.
 
-Once logged in, the user is brought to their profile page where they'll see all their past requests and donoations. 
+Once logged in, the user is brought to their profile page where they'll see all their past requests and donations. 
 
 <img src="./assets/login.gif" alt="login" width="800"/>
 
