@@ -20,7 +20,9 @@ The word ***alteri*** itself comes from the root of the word **altruism**, which
 
 ### Signing Up / Logging In
 
-Users are able to sign up or login. There are validations to when creating an account. They may also register using their Google account. Once logged in, they're brought to their profile page where they'll see all their past requests and donoations.
+Users are able to sign up or login. There are validations when creating an account. Users may also register using their Google account. Upon a successful account creatation/login attempt, a `JWT Token` is issued to store the user's session.
+
+Once logged in, they're brought to their profile page where they'll see all their past requests and donoations. 
 
 <img src="./assets/login.gif" alt="login" width="800"/>
 
@@ -62,7 +64,7 @@ Once the exchange has been made, either user can mark the request as fulfilled. 
 
 ### Logging Out
 
-When a user is complete with their session, they're able to log out. Once logged out, they're brought back to the home page.
+When a user is complete with their session, they're able to log out. Once logged out, they're brought back to the home page. The stored `JWT Token` is also deleted.
 
 <img src="./assets/logout.gif" alt="log out" width="800"/>
 
