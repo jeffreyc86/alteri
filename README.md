@@ -68,7 +68,7 @@ When a user is complete with their session, they're able to log out. Once logged
 
 ### Accessibility
 
-Alteri was created with all custom CSS and the use of media queries, so the app is mobile friendly. The sizing of all elements will adjust with the window size.
+Alteri was created with all custom CSS and the use of media queries, making the app is mobile friendly. The sizing of all elements adjust depending on the window size.
 
 <img src="./assets/mobile.gif" alt="mobile friendly" width="800"/>
 
