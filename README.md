@@ -78,4 +78,4 @@ Alteri was created with all custom CSS and the use of media queries, making the 
 
 The [MIT](https://choosealicense.com/licenses/mit/) License
 
-Copyright (C) 2021 - [Jeffrey Chiu](https://github.com/jeffreyc86) 
+Copyright (C) 2021 - [Jeffrey Chiu](https://jeffreychiu.dev/) 
